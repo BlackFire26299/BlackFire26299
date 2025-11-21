@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi!
+Im a solo dev currently undergoing study to learn more about tech and myself. I really love physics and coding and hopefully will get to combine both in a future job.
 
 <!--
 **BlackFire26299/BlackFire26299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
